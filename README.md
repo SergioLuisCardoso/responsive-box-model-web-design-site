@@ -16,7 +16,7 @@ This project is under license. See the [LICENSE](LICENSE.md) for more details.
 #### 📁 You can access the project by clicking [here](https://sergioluiscardoso.github.io/responsive-box-model-web-design-site/).
 
 #### Feedback 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at sergiolucard@gmail.com
 
 
 [⬆ Back to top](#responsive-box-model-web-design-site)<br>
