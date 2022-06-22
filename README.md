@@ -11,7 +11,8 @@ This is a static page of responsive box model web design site.
 
 #### 📝 License
 
-This project is under license. See the [LICENSE](LICENSE.md) for more details.
+This project is under license. 
+See the [LICENSE](LICENSE.md) for more details.
 
 #### 📁 You can access the project by clicking [here](https://sergioluiscardoso.github.io/responsive-box-model-web-design-site/).
 
